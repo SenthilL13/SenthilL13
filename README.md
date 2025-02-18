@@ -2,9 +2,6 @@
 <h3 align="center">Specializing in building exceptional software applications with modern technologies and best practices.</h3>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senthill13" alt="senthill13" /></a> </p>
-
 - 🔭 I’m currently working on **Techorc Software Solutions**
 
 - 🌱 I’m currently learning **React,Fast Apis**
